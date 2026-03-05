@@ -20,9 +20,6 @@ Data completa formatada
 Interface simples com design moderno usando gradiente e sombras.
 
 Este projeto foi desenvolvido utilizando:
-
-HTML5
-
-CSS3
-
-JavaScript
+  HTML
+  JavaScript
+  CSS
