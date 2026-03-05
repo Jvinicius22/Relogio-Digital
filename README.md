@@ -16,7 +16,7 @@ O projeto apresenta:
 *  Ano
 *  Data completa formatada
 
-Interface **simples, minimalista e limpa**, facilitando a visualização e o entendimento do código.
+Interface **simples, minimalista e limpa**, facilitando a visualização e o entendimento da interface.
 
  Este projeto foi desenvolvido utilizando:
 * **HTML**
