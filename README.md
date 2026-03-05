@@ -9,9 +9,9 @@ O projeto apresenta:
   Mês
   Ano
   Data completa formatada
-
-  Interface simples e minimalista, limpa para melhor entendimento
-Este projeto foi desenvolvido utilizando:
+ Interface simples e minimalista, limpa para melhor entendimento
+ 
+ Este projeto foi desenvolvido utilizando:
   HTML
   JavaScript
   CSS
