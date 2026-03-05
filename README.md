@@ -18,7 +18,7 @@ O projeto apresenta:
 
 Interface **simples, minimalista e limpa**, facilitando a visualização e o entendimento do código.
 
-* Este projeto foi desenvolvido utilizando:
+ Este projeto foi desenvolvido utilizando:
 * **HTML**
 * **CSS**
 * **JavaScript**
